@@ -1,6 +1,6 @@
 **Tiger Timer Privacy Policy**
 
-*Effective Date: 2024-07-29*
+**Effective Date:** *2024-07-29*
 
 Tiger Timer is a simple cat-themed timer app that runs as a service on users' devices. The app does not collect, store, or transmit any user data.
 
